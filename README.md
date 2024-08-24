@@ -56,6 +56,16 @@ A frontend web developer for a Finfarm finance company in Lagos, Nigeria.
 ### 📫 How to reach me
 - **Email**: [fayemi1995@gmail.com](mailto:your.email@example.com)
 - **LinkedIn**: [www.linkedin.com/in/fayemi-michael](#)
+- **Portfolio**: [https://fayemi-michael-oladimeji.web.app](#)
+
+## GitHub Stats
+
+!Michael's GitHub stats
+
+!Top Languages
+
+!GitHub Streak
+
 
 ### ⚡ Fun Fact
 I love exploring new technologies and often find myself working on side projects during my free time. When I'm not coding, you can find me playing video games or hiking.
