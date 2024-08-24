@@ -60,11 +60,7 @@ A frontend web developer for a Finfarm finance company in Lagos, Nigeria.
 
 ## GitHub Stats
 
-!Michael's GitHub stats
-
-!Top Languages
-
-!GitHub Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?fayemimichael= &theme=radical)
 
 
 ### ⚡ Fun Fact
