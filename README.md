@@ -60,7 +60,7 @@ A frontend web developer for a Finfarm finance company in Lagos, Nigeria.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?fayemimichael= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayemimichaeloladimeji&theme=radical)
 
 
 ### ⚡ Fun Fact
